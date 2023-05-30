@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.AppLogo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.Errors {
+  color: chocolate;
+  font-weight: 700;
+}
+
+.Code {
+  overflow-wrap: break-word;
+}

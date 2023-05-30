@@ -1,0 +1,13 @@
+{
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "script",
+    "ecmaFeatures": {}
+  },
+  "rules": {
+    "sort-imports": ["error"]
+  },
+  "env": {
+    "es6": true
+  }
+}
