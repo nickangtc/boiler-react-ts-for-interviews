@@ -51,8 +51,9 @@ function App() {
 
       <section>
         <form onSubmit={handleSubmit}>
-          <label>Search by product ID:</label>
+          <label htmlFor="productId">Search by product ID:</label>
           <Input
+            id="productId"
             name="productId"
             type="text"
             placeholder="Product ID"

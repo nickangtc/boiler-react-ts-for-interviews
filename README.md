@@ -1,6 +1,8 @@
 # Boiler React TypeScript for interviews
 
-Some live coding interviews will have you build something realistic. I setup this repo to aid me in one such interview.
+Some live coding interviews will have you build something realistic. I setup this repo to aid me in one such interview. For example, in their "interview prep doc," it said:
+
+> Prepare your environment: come with a skeleton app ready to consume an API and write tests. This is particularly important for languages with lots of boilerplate.
 
 The purpose of this public repo is for reuse for future interviews.
 
